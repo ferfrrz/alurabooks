@@ -36,7 +36,7 @@
 }
 
 .lista-menu_titulo, .lista-menu__item {
-    padding: lem;
+    padding: 1em;
     background-color: var(--branco);
 }
 .lista-menu_link{
