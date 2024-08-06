@@ -31,14 +31,16 @@
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
-.lista-menu_titulo{
-    color: var(--laranja);
-}
-
 .lista-menu_titulo, .lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
 }
+
+.lista-menu_titulo{
+    color: var(--laranja);
+}
+
+
 .lista-menu_link{
     background: var(--azul-degrade);
     -webkit-background-clip: text;
