@@ -34,7 +34,8 @@
 .lista-menu_titulo{
     color: var(--laranja);
 }
-.lista-menu__item {
+
+.lista-menu_titulo, .lista-menu__item {
     padding: lem;
     background-color: var(--branco);
 }
